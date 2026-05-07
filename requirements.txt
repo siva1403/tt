@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+cryptography
+pydantic
+pytest
+httpx
+bandit
+safety
+passlib[bcrypt]
+python-jose
