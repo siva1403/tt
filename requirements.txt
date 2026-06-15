@@ -10,3 +10,4 @@ bandit
 safety
 passlib[bcrypt]
 python-jose
+a
